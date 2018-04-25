@@ -17,8 +17,8 @@ title: Переезд в Эстонию, подробное руководств
 email: alex@ittalent.ee
 description: >- # this means to ignore newlines until "baseurl:"
   Подробное руководство по переезду в Эстонию, основые ресурсы, ценные знания и подсказки
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ittalentestonia.github.io/guide_ee_ru" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/guide_ee_ru" # the subpath of your site, e.g. /blog
+url: "https://ittalentestonia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: swither
 github_username:  swith
 
