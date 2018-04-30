@@ -27,3 +27,26 @@ layout: home
 Материалы этого репозитория представляют собой собрание знаний и представлений, накопленных различными людьми. Авторы материалов не несут ответственность за достоверность, точность или актуальность изложенных сведений. Материалы могут содержать неточности и ошибки. Материалы предоставляются безо всяких и любых гарантий. Материалы не могут рассматриваться как юридическая, медицинская, налоговая или иная консультация.
 
 Если вы используете материалы, то делаете это на свой страх и риск. Всегда перепроверяйте интересующие вас сведения. Обратите внимание, что информация может устаревать (например, в связи с внесением изменений в законы и подзаконные акты).
+
+TO DO:
+
+<div id="checkboxes">
+  <ul class="list-group">
+    {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <li class="list-group-item">
+        <h4>{{category_name}}</h4>
+        {% for post in site.categories[category_name] %}
+          {% assign content = post.content | strip_newlines %}
+          <input class="form-check-input" type="checkbox" value="" id="defaultCheck" disabled
+            {% if content != ""  %}
+              checked="checked"
+            {% endif %} >
+          <label class="form-check-label" for="defaultCheck">
+            {{post.title}}
+          </label><br>
+        {% endfor %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
