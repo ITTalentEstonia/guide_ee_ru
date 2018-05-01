@@ -28,13 +28,13 @@ layout: home
 
 Если вы используете материалы, то делаете это на свой страх и риск. Всегда перепроверяйте интересующие вас сведения. Обратите внимание, что информация может устаревать (например, в связи с внесением изменений в законы и подзаконные акты).
 
-TO DO:
+# TO DO:
 
 <div id="checkboxes">
   <ul class="list-group">
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
-      <li class="list-group-item">
+      <li>
         <h4>{{category_name}}</h4>
         {% for post in site.categories[category_name] %}
           {% assign content = post.content | strip_newlines %}
@@ -47,6 +47,7 @@ TO DO:
           </label><br>
         {% endfor %}
       </li>
+      <hr>
     {% endfor %}
   </ul>
 </div>
