@@ -30,7 +30,57 @@ categories: Отдых/Спорт
 
 Впрочем, у Эстонии есть собственная авиакомпания – Nordica, бывший Estonian Air. С ее помощью можно улететь в пару десятков крупных европейских городов, включая Санкт-Петербург (50 минут, от €40) и Киев (1 час 50 минут, от €130).
 
-Аэропорт в Таллинне расположен в 4 километрах от центра города. На данный момент добраться до него можно городскими автобусами №2 и №56, а также на трамвае №4. Поездка на такси из центра города обойдется в €5-7. Приезжать, как и везде, лучше немного заранее – в ожидании вылета вы сможете сами убедиться, что Таллиннский аэропорт не зря носит звание самого уютного в Европе.
+Аэропорт в Таллинне расположен в 4 километрах от центра города. На данный момент добраться до него можно городскими автобусами №2 и №65, а также на трамвае №4. Поездка на такси из центра города обойдется в €5-7. Приезжать, как и везде, лучше немного заранее – в ожидании вылета вы сможете сами убедиться, что Таллиннский аэропорт не зря носит звание самого уютного в Европе.
+
+### Список авиакомпаний и маршрутов на лето 2018
+|Пункт назначения|Авиакомпании|
+|---|---|
+|Амстердам|[Air Baltic](https://www.airbaltic.com/ru-RU/index), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Афины|[Aegean Airlines](https://en.aegeanair.com/)|
+|Барселона|[Vueling Airlines](https://www.vueling.com/ru)|
+|Барселона(Жирона)|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Берлин|[Air Baltic](https://www.airbaltic.com/ru-RU/index), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Бремен|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Брюссель|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Варшава|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Вена|[Air Baltic](https://www.airbaltic.com/ru-RU/index), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Вильнюс|[Air Baltic](https://www.airbaltic.com/ru-RU/index), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Гамбург|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Гётеборг|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Дублин|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Дюссельдорф(Веце)|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Киев(Борисполь)|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Киев(Жуляны)|[LOT Polish Airlines](http://www.lot.com/ru/ru/), [Wizz Air](https://wizzair.com/ru-ru/)|
+|Констанца|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Копенгаген|[SAS](https://www.flysas.com/), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Корфу|[Ellinair](https://ru.ellinair.com/)|
+|Курессааре|[Transaviabaltika](https://transaviabaltika.lt/)|
+|Кярдла|[Transaviabaltika](https://transaviabaltika.lt/)|
+|Лондон(Гатвик)|[Air Baltic](https://www.airbaltic.com/ru-RU/index), [EasyJet](https://www.easyjet.com/en)|
+|Лондон(Лутон)|[Wizz Air](https://wizzair.com/ru-ru/)|
+|Лондон(Станстед)|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Лондон(Хитроу)|[British Airways](https://www.britishairways.com/)|
+|Мальта|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Милан|[EasyJet](https://www.easyjet.com/en)|
+|Милан(Бергамо)|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Москва|[Aeroflot](https://www.aeroflot.ru/ru-en)|
+|Мюнхен|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Ницца|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Одесса|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Осло|[Norwegian Air](https://www.norwegian.com/en/), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Охрид|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Париж|[Air Baltic](https://www.airbaltic.com/ru-RU/index)|
+|Пафос|[Ryanair](https://www.ryanair.com/ee/en/)|
+|Рига|[Air Baltic](https://www.airbaltic.com/ru-RU/index)|
+|Риека|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Салоники|[Ellinair](https://ru.ellinair.com/)|
+|Санкт-Петербург|[Nordica](https://www.nordica.ee/)|
+|Сплит|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Стамбул|[Turkish Airlines](https://www.turkishairlines.com/)|
+|Стокгольм|[SAS](https://www.flysas.com/), [LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Тронхейм|[LOT Polish Airlines](http://www.lot.com/ru/ru/)|
+|Франкфурт|[Lufthansa](https://www.lufthansa.com/ee/en/Homepage)|
+|Хельсинки|[Finnair](https://www.finnair.com/ru/ru/)|
 
 ## Морские путешествия
 
