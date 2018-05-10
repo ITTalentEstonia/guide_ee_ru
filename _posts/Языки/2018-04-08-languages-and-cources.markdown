@@ -17,4 +17,5 @@ categories: Языки
 * [EnglishPod](https://t.me/EnglishPod_podcast) - хороший набор подкастов для любителей телеграмма
 
 
-Так же есть интересный ресурса [Полиглот](https://16polyglot.ru/english/?utm_source=youtube&utm_campaign=topcomment) где можно найти много интерсных уроков на разных популярынйх языках.
+Так же есть интересный ресурс [Полиглот](https://16polyglot.ru/english/?utm_source=youtube&utm_campaign=topcomment), где можно найти много интерсных уроков на разных популярынйх языках.
+Отличный пример вдохновляющего видео от профессионала своего дела. :)
