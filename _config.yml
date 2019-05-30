@@ -28,6 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-seo-tag
 
 
 # Exclude from processing.
