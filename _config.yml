@@ -31,6 +31,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+webmaster_verifications:
+  yandex: 7726150f396aa4b4
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
