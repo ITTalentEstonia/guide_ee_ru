@@ -14,7 +14,7 @@ layout: home
 2. Вы можете редактировать файлы в вашем клоне.
 3. Когда файл или исправление готово — отправляете pull request в основной репозиторий.
 
-Всё делается прямо на сайте, консоль или другие программы использовать не нужно. Сайт-зеркало: [https://ittalentestonia.github.io/guide_ee_ru/](https://ittalentestonia.github.io/guide_ee_ru/)
+Изменения можно внести на самом Github, без использования консоли или других программ. Сайт-зеркало: [https://ittalentestonia.github.io/guide_ee_ru/](https://ittalentestonia.github.io/guide_ee_ru/)
 
 ## Общение
 
